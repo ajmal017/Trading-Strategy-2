@@ -1,4 +1,4 @@
-# capstone-project
+# Python  Capstone-Project
 ### Implementation of R-BREAKER & ATR Trading Strategy on Python Platform 
 
 **Version 1.0.0**
